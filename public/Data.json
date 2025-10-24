@@ -1,0 +1,363 @@
+  [
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2866/2866443.png",
+    "title": "ChatMaster - Secure Messaging",
+    "companyName": "Connectify Ltd.",
+    "id": 1,
+    "description": "ChatMaster is a secure messaging app that keeps your conversations private and protected. You can send instant messages, make voice and video calls, and share multimedia files seamlessly. Create group chats, send fun stickers and emojis, and express yourself freely. End-to-end encryption ensures only you and your contacts can read your messages. ChatMaster also works across devices for convenience and continuity. Ideal for both personal chats and professional communication. Experience smooth and reliable messaging anytime.",
+    "size": "48 MB",
+    "reviews": "15.2K",
+    "ratingAvg": 4.6,
+    "downloads": "750K",
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 4300 },
+      { "name": "5 star", "count": 8900 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/888/888879.png",
+    "title": "BeatStream - Music & Podcasts",
+    "companyName": "SoundWave Inc.",
+    "id": 2,
+    "description": "BeatStream brings millions of songs and podcasts directly to your device. Explore curated playlists, discover personalized recommendations, and enjoy offline listening. The app features high-quality audio, integrated lyrics, and social sharing options. Discover new artists and genres effortlessly. Stream live shows or create your own playlist. BeatStream is perfect for music lovers seeking a rich and immersive audio experience. Take your music everywhere with ease.",
+    "size": "60 MB",
+    "reviews": "12.3K",
+    "ratingAvg": 4.5,
+    "downloads": "680K",
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 480 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3600 },
+      { "name": "5 star", "count": 7840 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1055/1055687.png",
+    "title": "SnapShot Pro - Camera & Editor",
+    "companyName": "PixelWorks",
+    "id": 3,
+    "description": "SnapShot Pro offers a professional photography and editing experience on mobile. Capture high-resolution photos with ease, and enhance them using advanced filters and editing tools. Adjust brightness, contrast, and color balance for perfection. Create stunning social media content instantly. The app supports multiple formats and lets you share images directly with friends or online. Ideal for bloggers, photographers, and content creators. Unlock your creative potential with SnapShot Pro.",
+    "size": "65 MB",
+    "reviews": "14K",
+    "ratingAvg": 4.7,
+    "downloads": "820K",
+    "ratings": [
+      { "name": "1 star", "count": 280 },
+      { "name": "2 star", "count": 390 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 9130 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1484/1484863.png",
+    "title": "GameHub - Play Trending Games",
+    "companyName": "Playverse",
+    "id": 4,
+    "description": "GameHub provides access to a vast collection of mobile games across various genres. Play action, puzzle, strategy, and multiplayer games instantly. Track your achievements, compete on global leaderboards, and sync progress across devices. Discover trending games and get daily recommendations. GameHub offers smooth gameplay and interactive experiences. Ideal for casual and hardcore gamers alike. Enjoy fun challenges and stay entertained anytime.",
+    "size": "85 MB",
+    "reviews": "10.7K",
+    "ratingAvg": 4.4,
+    "downloads": "470K",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 520 },
+      { "name": "3 star", "count": 1250 },
+      { "name": "4 star", "count": 3300 },
+      { "name": "5 star", "count": 6380 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2921/2921222.png",
+    "title": "NoteIt - Notes & Reminders",
+    "companyName": "OrganizeIt Ltd.",
+    "id": 5,
+    "description": "NoteIt is a versatile note-taking and reminder app designed to boost productivity. Create detailed notes, to-do lists, and reminders easily. Organize your content with tags, folders, and color codes. Sync across all your devices for seamless access. Add images, links, or voice notes to enrich your entries. Plan your day, track tasks, and never miss deadlines. NoteIt makes organizing personal and professional life simple and efficient.",
+    "size": "25 MB",
+    "reviews": "6.7K",
+    "ratingAvg": 4.3,
+    "downloads": "210K",
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 3260 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3126/3126363.png",
+    "title": "FitTrack - Fitness & Health",
+    "companyName": "WellnessCo",
+    "id": 6,
+    "description": "FitTrack helps you monitor fitness and maintain a healthy lifestyle. Track daily activity, workouts, heart rate, and calories burned. Set personal fitness goals and join guided workouts. Detailed analytics provide insight into your progress. Connect with smartwatches and wearable devices for a complete experience. Stay motivated with challenges, achievements, and reminders. FitTrack is perfect for health enthusiasts seeking growth and improvement.",
+    "size": "55 MB",
+    "reviews": "8.8K",
+    "ratingAvg": 4.6,
+    "downloads": "360K",
+    "ratings": [
+      { "name": "1 star", "count": 170 },
+      { "name": "2 star", "count": 280 },
+      { "name": "3 star", "count": 810 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 4640 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/869/869869.png",
+    "title": "WeatherNow - Real-time Forecasts",
+    "companyName": "InfoTech Labs",
+    "id": 7,
+    "description": "WeatherNow delivers accurate weather forecasts and alerts in real-time. Check hourly predictions, precipitation maps, wind speed, and temperature changes. Get severe weather warnings to stay safe. The app includes radar maps and interactive charts for better visualization. Plan outdoor activities and trips confidently. WeatherNow also supports multiple locations and offline access. Reliable weather information is always at your fingertips.",
+    "size": "38 MB",
+    "reviews": "5.1K",
+    "ratingAvg": 4.2,
+    "downloads": "130K",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 340 },
+      { "name": "3 star", "count": 830 },
+      { "name": "4 star", "count": 1560 },
+      { "name": "5 star", "count": 2170 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/854/854878.png",
+    "title": "MapQuest - Navigation & Maps",
+    "companyName": "NavSolutions",
+    "id": 8,
+    "description": "MapQuest is a full-featured navigation and mapping app for effortless travel. Get turn-by-turn directions, traffic updates, and offline maps. Explore points of interest, restaurants, and tourist attractions. Plan routes efficiently and avoid congested roads. Save favorite locations and share directions with friends. Real-time GPS ensures accurate navigation. MapQuest helps you explore new places with confidence and convenience.",
+    "size": "92 MB",
+    "reviews": "19.2K",
+    "ratingAvg": 4.5,
+    "downloads": "880K",
+    "ratings": [
+      { "name": "1 star", "count": 420 },
+      { "name": "2 star", "count": 580 },
+      { "name": "3 star", "count": 1380 },
+      { "name": "4 star", "count": 3700 },
+      { "name": "5 star", "count": 10320 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1006/1006363.png",
+    "title": "MindSpace - Meditation & Sleep",
+    "companyName": "CalmTech Studios",
+    "id": 9,
+    "description": "MindSpace helps you relax, meditate, and sleep better through guided sessions. Access breathing exercises, calming soundscapes, and mindfulness routines. Reduce stress, enhance focus, and improve mental well-being. Set personalized schedules and track progress. Learn new meditation techniques and cultivate a positive mindset. MindSpace is designed for beginners and experienced meditators alike. Achieve mental clarity and inner peace daily.",
+    "size": "42 MB",
+    "reviews": "16.5K",
+    "ratingAvg": 4.8,
+    "downloads": "1.1M",
+    "ratings": [
+      { "name": "1 star", "count": 240 },
+      { "name": "2 star", "count": 410 },
+      { "name": "3 star", "count": 880 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 11070 }
+    ]
+  },
+
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3081/3081559.png",
+    "title": "TaskFlow - Work Manager",
+    "companyName": "Efficio Labs",
+    "id": 10,
+    "description": "TaskFlow helps you organize and manage your work efficiently. Create tasks, set deadlines, and track progress in real-time. Collaborate with team members and share updates instantly. Use boards, lists, and reminders to stay productive. Prioritize tasks with labels and categories. Analyze productivity trends with built-in reports. TaskFlow keeps your projects on track and helps you achieve goals effortlessly.",
+    "size": "35 MB",
+    "reviews": "7.8K",
+    "ratingAvg": 4.4,
+    "downloads": "520K",
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 720 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 4110 }
+    ]
+  },
+  {
+    "image": "/images/demo-app (4).webp",
+    "title": "Foodie - Recipes & Cooking",
+    "companyName": "YummySoft",
+    "id": 11,
+    "description": "Foodie brings thousands of recipes from around the world to your fingertips. Follow step-by-step cooking instructions with videos and images. Discover new cuisines and healthy meal options. Customize recipes to your taste and dietary preferences. Create meal plans and shopping lists. Share your creations with friends and family. Foodie makes cooking fun, easy, and accessible for everyone.",
+    "size": "58 MB",
+    "reviews": "9.9K",
+    "ratingAvg": 4.6,
+    "downloads": "1.4M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 470 },
+      { "name": "3 star", "count": 980 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 6950 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2721/2721265.png",
+    "title": "LangLearn - Language Courses",
+    "companyName": "EduTech Global",
+    "id": 12,
+    "description": "LangLearn makes learning new languages fun and interactive. Practice speaking, reading, and writing with AI-powered lessons. Track progress and earn rewards for completing challenges. Learn multiple languages including English, Spanish, and French. Use quizzes, exercises, and conversation simulations to enhance skills. Personalized feedback helps improve fluency. Start your language journey and gain confidence in communication.",
+    "size": "72 MB",
+    "reviews": "21.1K",
+    "ratingAvg": 4.7,
+    "downloads": "2.3M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 530 },
+      { "name": "3 star", "count": 970 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 16000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3239/3239952.png",
+    "title": "TravelMate - Flights & Hotels",
+    "companyName": "JourneyGo",
+    "id": 13,
+    "description": "TravelMate is your all-in-one travel planner. Search for flights, compare prices, and book hotels effortlessly. Get travel guides, maps, and itinerary suggestions. Save your bookings and access them offline. Receive alerts for price drops and travel deals. Share itineraries with friends and family. TravelMate ensures smooth planning and a stress-free travel experience for every trip.",
+    "size": "68 MB",
+    "reviews": "8.7K",
+    "ratingAvg": 4.3,
+    "downloads": "960K",
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 360 },
+      { "name": "3 star", "count": 740 },
+      { "name": "4 star", "count": 2300 },
+      { "name": "5 star", "count": 5090 }
+    ]
+  },
+  {
+    "image": "/images/demo-app (3).webp",
+    "title": "DocuScan - PDF & Files",
+    "companyName": "Scanify",
+    "id": 14,
+    "description": "DocuScan turns your phone into a powerful portable scanner. Scan documents, receipts, and images quickly with high-quality results. Export files in PDF or JPEG formats. Organize scanned files with folders and tags. Share documents via email, cloud, or messaging apps. Use OCR to extract text and search content efficiently. DocuScan simplifies document management for personal and professional needs.",
+    "size": "41 MB",
+    "reviews": "14.3K",
+    "ratingAvg": 4.5,
+    "downloads": "1.9M",
+    "ratings": [
+      { "name": "1 star", "count": 390 },
+      { "name": "2 star", "count": 470 },
+      { "name": "3 star", "count": 950 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 9590 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/4333/4333609.png",
+    "title": "CryptoTrack - Coin Market",
+    "companyName": "BlockWorks",
+    "id": 15,
+    "description": "CryptoTrack provides live cryptocurrency prices, charts, and portfolio tracking. Stay updated with Bitcoin, Ethereum, and altcoins. Receive market news and alerts in real-time. Analyze price trends and make informed decisions. Monitor your portfolio performance and history. Set custom notifications for coin prices. CryptoTrack is a complete solution for crypto enthusiasts and investors.",
+    "size": "50 MB",
+    "reviews": "11K",
+    "ratingAvg": 4.6,
+    "downloads": "780K",
+    "ratings": [
+      { "name": "1 star", "count": 260 },
+      { "name": "2 star", "count": 410 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 6630 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1141/1141771.png",
+    "title": "Budgetly - Expense Tracker",
+    "companyName": "SmartFin Apps",
+    "id": 16,
+    "description": "Budgetly helps you manage finances effectively. Track daily expenses, categorize spending, and plan monthly budgets. Set savings goals and monitor progress. Visualize financial health with detailed reports and graphs. Receive AI-based tips for smarter spending. Export data for easy analysis. Budgetly makes managing money simple, intuitive, and stress-free.",
+    "size": "33 MB",
+    "reviews": "9.3K",
+    "ratingAvg": 4.5,
+    "downloads": "650K",
+    "ratings": [
+      { "name": "1 star", "count": 190 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 670 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 5740 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1256/1256650.png",
+    "title": "BookNest - Read & Listen",
+    "companyName": "PaperLeaf",
+    "id": 17,
+    "description": "BookNest offers thousands of ebooks and audiobooks from every genre. Customize font sizes, themes, and reading modes. Download books for offline reading. Listen to audiobooks narrated by professional voice actors. Receive personalized recommendations and track reading progress. Join reading communities and share favorites. BookNest makes reading and listening an enjoyable experience anytime.",
+    "size": "78 MB",
+    "reviews": "18.6K",
+    "ratingAvg": 4.8,
+    "downloads": "2.8M",
+    "ratings": [
+      { "name": "1 star", "count": 320 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 880 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 13980 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3600/3600913.png",
+    "title": "ShopEase - Online Shopping",
+    "companyName": "MegaCart",
+    "id": 18,
+    "description": "ShopEase brings millions of products to your fingertips. Browse categories, compare prices, and check reviews before purchase. Track your orders in real-time. Enjoy daily deals, discounts, and secure payments. Save favorite items and create wishlists. ShopEase makes online shopping fast, convenient, and enjoyable. Experience a seamless shopping journey every day.",
+    "size": "90 MB",
+    "reviews": "29.4K",
+    "ratingAvg": 4.3,
+    "downloads": "5.2M",
+    "ratings": [
+      { "name": "1 star", "count": 750 },
+      { "name": "2 star", "count": 980 },
+      { "name": "3 star", "count": 1900 },
+      { "name": "4 star", "count": 6400 },
+      { "name": "5 star", "count": 19400 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1598/1598190.png",
+    "title": "Pixify - AI Art Generator",
+    "companyName": "ArtTech Studio",
+    "id": 19,
+    "description": "Pixify converts text prompts into beautiful artwork using AI. Generate portraits, landscapes, and abstract art effortlessly. Explore different styles and color palettes. Save and share creations with friends and social platforms. Experiment with multiple drafts and refine designs. Pixify is perfect for digital artists and creative minds. Unlock your artistic potential with AI-powered tools.",
+    "size": "84 MB",
+    "reviews": "12.5K",
+    "ratingAvg": 4.7,
+    "downloads": "1.7M",
+    "ratings": [
+      { "name": "1 star", "count": 310 },
+      { "name": "2 star", "count": 430 },
+      { "name": "3 star", "count": 910 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 9250 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2331/2331947.png",
+    "title": "FitBite - Healthy Recipes",
+    "companyName": "NutriLife",
+    "id": 20,
+    "description": "FitBite helps you discover nutritious and delicious recipes. Track calories, plan meals, and maintain diet goals. Explore breakfast, lunch, dinner, and snack options. Save favorite recipes and create shopping lists. Receive tips for healthy cooking and portion control. FitBite motivates users to maintain a balanced lifestyle. Perfect for fitness enthusiasts and food lovers seeking healthier options.",
+    "size": "47 MB",
+    "reviews": "8.7K",
+    "ratingAvg": 4.5,
+    "downloads": "930K",
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 340 },
+      { "name": "3 star", "count": 690 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 4990 }
+    ]
+  }
+]
