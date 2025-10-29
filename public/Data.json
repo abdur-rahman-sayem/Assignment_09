@@ -1,4 +1,4 @@
-  [
+[
   {
     "image": "https://cdn-icons-png.flaticon.com/512/2866/2866443.png",
     "title": "ChatMaster - Secure Messaging",
@@ -15,7 +15,8 @@
       { "name": "3 star", "count": 1300 },
       { "name": "4 star", "count": 4300 },
       { "name": "5 star", "count": 8900 }
-    ]
+    ],
+    "category": "Health"
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/888/888879.png",
@@ -33,7 +34,8 @@
       { "name": "3 star", "count": 1200 },
       { "name": "4 star", "count": 3600 },
       { "name": "5 star", "count": 7840 }
-    ]
+    ],
+    "category": "Education"
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/1055/1055687.png",
@@ -51,7 +53,8 @@
       { "name": "3 star", "count": 1100 },
       { "name": "4 star", "count": 3100 },
       { "name": "5 star", "count": 9130 }
-    ]
+    ],
+    "category": "Health"
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/1484/1484863.png",
@@ -69,7 +72,8 @@
       { "name": "3 star", "count": 1250 },
       { "name": "4 star", "count": 3300 },
       { "name": "5 star", "count": 6380 }
-    ]
+    ],
+    "category": "Education"
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/2921/2921222.png",
@@ -87,7 +91,8 @@
       { "name": "3 star", "count": 800 },
       { "name": "4 star", "count": 2200 },
       { "name": "5 star", "count": 3260 }
-    ]
+    ],
+    "category": "Education"
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/3126/3126363.png",
@@ -105,7 +110,8 @@
       { "name": "3 star", "count": 810 },
       { "name": "4 star", "count": 2900 },
       { "name": "5 star", "count": 4640 }
-    ]
+    ],
+    "category": "Health"
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/869/869869.png",
@@ -123,7 +129,8 @@
       { "name": "3 star", "count": 830 },
       { "name": "4 star", "count": 1560 },
       { "name": "5 star", "count": 2170 }
-    ]
+    ],
+    "category": "Education"
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/854/854878.png",
@@ -141,7 +148,8 @@
       { "name": "3 star", "count": 1380 },
       { "name": "4 star", "count": 3700 },
       { "name": "5 star", "count": 10320 }
-    ]
+    ],
+    "category": "Productivity"
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/1006/1006363.png",
@@ -159,9 +167,9 @@
       { "name": "3 star", "count": 880 },
       { "name": "4 star", "count": 2900 },
       { "name": "5 star", "count": 11070 }
-    ]
+    ],
+    "category": "Health"
   },
-
   {
     "image": "https://cdn-icons-png.flaticon.com/512/3081/3081559.png",
     "title": "TaskFlow - Work Manager",
@@ -178,7 +186,8 @@
       { "name": "3 star", "count": 720 },
       { "name": "4 star", "count": 2400 },
       { "name": "5 star", "count": 4110 }
-    ]
+    ],
+    "category": "Productivity"
   },
   {
     "image": "/images/demo-app (4).webp",
@@ -196,7 +205,8 @@
       { "name": "3 star", "count": 980 },
       { "name": "4 star", "count": 3200 },
       { "name": "5 star", "count": 6950 }
-    ]
+    ],
+    "category": "Health"
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/2721/2721265.png",
@@ -214,7 +224,8 @@
       { "name": "3 star", "count": 970 },
       { "name": "4 star", "count": 3100 },
       { "name": "5 star", "count": 16000 }
-    ]
+    ],
+    "category": "Education"
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/3239/3239952.png",
@@ -232,7 +243,8 @@
       { "name": "3 star", "count": 740 },
       { "name": "4 star", "count": 2300 },
       { "name": "5 star", "count": 5090 }
-    ]
+    ],
+    "category": "Productivity"
   },
   {
     "image": "/images/demo-app (3).webp",
@@ -250,7 +262,8 @@
       { "name": "3 star", "count": 950 },
       { "name": "4 star", "count": 2900 },
       { "name": "5 star", "count": 9590 }
-    ]
+    ],
+    "category": "Productivity"
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/4333/4333609.png",
@@ -268,7 +281,8 @@
       { "name": "3 star", "count": 800 },
       { "name": "4 star", "count": 2900 },
       { "name": "5 star", "count": 6630 }
-    ]
+    ],
+    "category": "Education"
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/1141/1141771.png",
@@ -286,7 +300,8 @@
       { "name": "3 star", "count": 670 },
       { "name": "4 star", "count": 2400 },
       { "name": "5 star", "count": 5740 }
-    ]
+    ],
+    "category": "Productivity"
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/1256/1256650.png",
@@ -304,7 +319,8 @@
       { "name": "3 star", "count": 880 },
       { "name": "4 star", "count": 3000 },
       { "name": "5 star", "count": 13980 }
-    ]
+    ],
+    "category": "Education"
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/3600/3600913.png",
@@ -322,7 +338,8 @@
       { "name": "3 star", "count": 1900 },
       { "name": "4 star", "count": 6400 },
       { "name": "5 star", "count": 19400 }
-    ]
+    ],
+    "category": "Productivity"
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/1598/1598190.png",
@@ -340,7 +357,8 @@
       { "name": "3 star", "count": 910 },
       { "name": "4 star", "count": 2600 },
       { "name": "5 star", "count": 9250 }
-    ]
+    ],
+    "category": "Education"
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/2331/2331947.png",
@@ -358,6 +376,8 @@
       { "name": "3 star", "count": 690 },
       { "name": "4 star", "count": 2500 },
       { "name": "5 star", "count": 4990 }
-    ]
+    ],
+    "category": "Health"
   }
 ]
+
